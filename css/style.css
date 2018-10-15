@@ -1,12 +1,12 @@
         /* CSS style rules go here! */
-        
+
         #map {
             position: absolute;
             width: 100%;
             top: 0;
             bottom: 0;
         }
-        
+
         #infobox {
             position: absolute;
             z-index: 650;
@@ -21,7 +21,7 @@
             font-family: 'Slabo 27px', serif;
             width: 250px;
         }
-        
+
         #legend {
             position: absolute;
             z-index: 650;
@@ -35,7 +35,7 @@
             border-radius: 5px;
             width: 100px;
         }
-        
+
         h1 {
             position: absolute;
             z-index: 650;
@@ -49,7 +49,7 @@
             border-radius: 5px;
             font-family: 'Slabo 27px', serif;
         }
-        
+
         h2 {
             position: absolute;
             z-index: 650;
@@ -63,11 +63,11 @@
             border-radius: 5px;
             font-family: 'Slabo 27px', serif;
         }
-        
+
         a {
             color: deepskyblue;
         }
-        
+
         .mensTooltip {
             color: whitesmoke;
             background: #6050dc;
@@ -75,7 +75,7 @@
             font-weight: bold;
             font-family: 'Slabo 27px', serif;
         }
-        
+
         .womensTooltip {
             background: #f5deb3;
             color: black;
@@ -83,11 +83,11 @@
             font-weight: bold;
             font-family: 'Slabo 27px', serif;
         }
-        
+
         #radio-button {
             position: absolute;
             z-index: 650;
-            width: 130px;
+            width: 150px;
             padding: 8px 25px 8px 15px;
             background: rgba(44, 44, 47, 0.9);
             border-radius: 5px;
@@ -97,7 +97,7 @@
             font-family: 'Slabo 27px', serif;
             font-size: .9em;
         }
-        
+
         #ui-controls {
             position: absolute;
             z-index: 650;
@@ -109,35 +109,22 @@
             bottom: 25px;
             left: 10px;
         }
-        
-        #ui-controls .min {
-            float: left;
+
+        #ui-controls .slider-labels {
+            display: flex;
+            justify-content: space-between;
         }
-        
-        #ui-controls .second {
-            float: left;
-            margin-left: 25px;
+
+        #ui-controls .slider-labels span {
+            text-align: center;
         }
-        
-        #ui-controls .mid {
-            float: left;
-            margin-left: 30px;
-        }
-        
-        #ui-controls .fourth {
-            float: left;
-            margin-left: 35px;
-        }
-        
-        #ui-controls .max {
-            float: right;
-            margin-right: -15px;
-        }
-        
+
         .round-slider {
             width: 100%;
+            margin-right: 0;
+            margin-left: 0;
         }
-        
+
         label {
             font-size: 1em;
             font-weight: bold;
