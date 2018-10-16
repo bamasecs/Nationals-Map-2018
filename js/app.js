@@ -50,7 +50,7 @@
 				currentWomensGame = props[ day + '_W' + currentRound ],
 				womenLabel = fieldNum + ': ' + currentWomensGame,
 				currentMixedGame = props[ day + '_X' + currentRound ],
-				mixedLabel = fieldNum + ': ' + currentWomensGame;
+				mixedLabel = fieldNum + ': ' + currentMixedGame;
 
 			// remove any previously bound tooltip
 			layer.unbindTooltip();

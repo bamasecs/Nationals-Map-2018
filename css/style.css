@@ -36,6 +36,11 @@
             width: 100px;
         }
 
+        #legend p {
+            padding: 5px;
+            text-align: center;
+        }
+
         h1 {
             position: absolute;
             z-index: 650;
@@ -69,15 +74,23 @@
         }
 
         .mensTooltip {
-            color: whitesmoke;
-            background: #6050dc;
+            background: #2178ee;
+            color: black;
             font-size: 1.1em;
             font-weight: bold;
             font-family: 'Slabo 27px', serif;
         }
 
         .womensTooltip {
-            background: #f5deb3;
+            background: #e3493b;
+            color: black;
+            font-size: 1.1em;
+            font-weight: bold;
+            font-family: 'Slabo 27px', serif;
+        }
+
+        .mixedTooltip {
+            background: #eeba4c;
             color: black;
             font-size: 1.1em;
             font-weight: bold;
