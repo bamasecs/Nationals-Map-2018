@@ -11,10 +11,8 @@
 	};
 
 	var map = L.map('map', options);
-	var tiles = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/satellite-v9/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWlrdXMzMSIsImEiOiJjajJqMTE5dWkwMXQyMndtcm00cXI1c3d1In0.i1zdIav3mjcxFiXk91NIPQ', {
-		attribution: '&copy; <a href="https://www.mapbox.com/about/maps/">Mapbox</a> | &copy; <a href="https://www.digitalglobe.com/">Digital Globe</a> | <a href="https://www.mapbox.com/feedback/">Improve this map</a>'
-	}).addTo(map);
-	$.getJSON('data/field-map-wgs.geojson', function (data) {
+	var tiles = L.tileLayer('https://api.mapbox.com/styles/v1/mapbox/satellite-v9/tiles/256/{z}/{x}/{y}?access_token=pk.eyJ1IjoibWlrdXMzMSIsImEiOiJjajJqMTE5dWkwMXQyMndtcm00cXI1c3d1In0.i1zdIav3mjcxFiXk91NIPQ', {}).addTo(map);
+	$.getJSON('data/2018Nationals.geojson', function (data) {
 		drawMap(data);
 	});
 
@@ -37,7 +35,7 @@
 		map.fitBounds(dataLayer.getBounds());
 
 		createSliderUI(dataLayer);
-		updateMap(dataLayer, 'FRI', '1');
+		updateMap(dataLayer, 'THU', '1');
 	}
 
 	function updateMap(dataLayer, day, currentRound) {
