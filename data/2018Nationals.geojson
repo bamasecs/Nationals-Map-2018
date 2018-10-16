@@ -700,8 +700,8 @@
     {
       "type": "Feature",
       "properties": {
-        "id": 11,
-        "FIELD_NUM": "F12",
+        "id": 12,
+        "FIELD_NUM": "F13",
         "THU_M1": null,
         "THU_M2": null,
         "THU_M3": null,
@@ -749,64 +749,6 @@
             ],
             [
               -117.223759097099,
-              32.980260654901
-            ]
-          ]
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "id": 12,
-        "FIELD_NUM": "F13",
-        "THU_M1": null,
-        "THU_M2": null,
-        "THU_M3": null,
-        "THU_M4": null,
-        "THU_W1": null,
-        "THU_W2": null,
-        "THU_W3": null,
-        "THU_W4": null,
-        "THU_X1": null,
-        "THU_X2": null,
-        "THU_X3": null,
-        "THU_X4": null,
-        "FRI_M1": null,
-        "FRI_M2": null,
-        "FRI_M3": null,
-        "FRI_M4": null,
-        "FRI_W1": null,
-        "FRI_W2": null,
-        "FRI_W3": null,
-        "FRI_W4": null,
-        "FRI_X1": null,
-        "FRI_X2": null,
-        "FRI_X3": null,
-        "FRI_X4": null
-      },
-      "geometry": {
-        "type": "Polygon",
-        "coordinates": [
-          [
-            [
-              -117.223259097099,
-              32.980260654901
-            ],
-            [
-              -117.222905045509,
-              32.980260654901
-            ],
-            [
-              -117.222905045509,
-              32.981039149896
-            ],
-            [
-              -117.223259097099,
-              32.981039149896
-            ],
-            [
-              -117.223259097099,
               32.980260654901
             ]
           ]
