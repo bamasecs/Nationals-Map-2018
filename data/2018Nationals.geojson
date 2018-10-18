@@ -1,1 +1,928 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"id":0,"FIELD_NUM":"F1","THU_M1":"","THU_M2":null,"THU_M3":null,"THU_M4":null,"THU_W1":null,"THU_W2":null,"THU_W3":null,"THU_W4":null,"THU_X1":null,"THU_X2":null,"THU_X3":null,"THU_X4":null,"FRI_M1":"Test"},"geometry":{"type":"Polygon","coordinates":[[[-117.229559097099,32.980260654901],[-117.22940504550934,32.980260654901],[-117.22940504550934,32.981039149896],[-117.2297590970993,32.981039149896],[-117.229759097099,32.980260654901]]]}},{"type":"Feature","properties":{"id":1,"FIELD_NUM":"F2","THU_M1":"Truck Stop v Bravo","THU_M2":"Madison v Sub Zero","THU_M3":"Sub Zero v High Five","THU_M4":"Machine v Chain","THU_W1":null,"THU_W2":null,"THU_W3":null,"THU_W4":null,"THU_X1":null,"THU_X2":null,"THU_X3":null,"THU_X4":null,"FRI_M1":""},"geometry":{"type":"Polygon","coordinates":[[[-117.229259097099,32.980260654901],[-117.228905045509,32.980260654901],[-117.228905045509,32.981039149896],[-117.229259097099,32.981039149896],[-117.229259097099,32.980260654901]]]}},{"type":"Feature","properties":{"id":2,"FIELD_NUM":"F3","THU_M1":null,"THU_M2":null,"THU_M3":"Sockeye v Temper","THU_M4":"Sockeye v Dig","THU_W1":"Brute Squad v Heist","THU_W2":"Brute Squad v Schwa","THU_W3":"","THU_W4":null,"THU_X1":null,"THU_X2":null,"THU_X3":null,"THU_X4":null},"geometry":{"type":"Polygon","coordinates":[[[-117.228759097099,32.980260654901],[-117.228405045509,32.980260654901],[-117.228405045509,32.981039149896],[-117.228759097099,32.981039149896],[-117.228759097099,32.980260654901]]]}},{"type":"Feature","properties":{"id":3,"FIELD_NUM":"F4","THU_M1":null,"THU_M2":null,"THU_M3":null,"THU_M4":null,"THU_W1":"Nightlock v Schwa","THU_W2":"Nightlock v Heist","THU_W3":"Heist v Schwa","THU_W4":"Phoenix v Traffic","THU_X1":"","THU_X2":null,"THU_X3":null,"THU_X4":null},"geometry":{"type":"Polygon","coordinates":[[[-117.228259097099,32.980260654901],[-117.227905045509,32.980260654901],[-117.227905045509,32.981039149896],[-117.228259097099,32.981039149896],[-117.228259097099,32.980260654901]]]}},{"type":"Feature","properties":{"id":4,"FIELD_NUM":"F5","THU_M1":null,"THU_M2":null,"THU_M3":null,"THU_M4":null,"THU_W1":"Scandal v Wildfire","THU_W2":"Fury v Phoenix","THU_W3":"Fury v Traffic","THU_W4":"Fury v 6ixers","THU_X1":"","THU_X2":null,"THU_X3":null,"THU_X4":null,"FRI_M1":"Test2"},"geometry":{"type":"Polygon","coordinates":[[[-117.227759097099,32.980260654901],[-117.227405045509,32.980260654901],[-117.227405045509,32.981039149896],[-117.227759097099,32.981039149896],[-117.227759097099,32.980260654901]]]}},{"type":"Feature","properties":{"id":5,"FIELD_NUM":"F6","THU_M1":null,"THU_M2":"Sockeye v Doublewide","THU_M3":null,"THU_M4":"Pony v Truck Stop","THU_W1":null,"THU_W2":null,"THU_W3":"6ixers v Phoenix","THU_W4":"","THU_X1":"Mixtape v Mishief","THU_X2":null,"THU_X3":null,"THU_X4":null},"geometry":{"type":"Polygon","coordinates":[[[-117.227259097099,32.980260654901],[-117.226905045509,32.980260654901],[-117.226905045509,32.981039149896],[-117.227259097099,32.981039149896],[-117.227259097099,32.980260654901]]]}},{"type":"Feature","properties":{"id":6,"FIELD_NUM":"F7","THU_M1":"Madison v High Five","THU_M2":null,"THU_M3":null,"THU_M4":null,"THU_W1":null,"THU_W2":"Scandal v Nemesis","THU_W3":"","THU_W4":"Riot v Ozone","THU_X1":"","THU_X2":null,"THU_X3":"Amp v Blackbird","THU_X4":null},"geometry":{"type":"Polygon","coordinates":[[[-117.226759097099,32.980260654901],[-117.226405045509,32.980260654901],[-117.226405045509,32.981039149896],[-117.226759097099,32.981039149896],[-117.226759097099,32.980260654901]]]}},{"type":"Feature","properties":{"id":7,"FIELD_NUM":"F8","THU_M1":null,"THU_M2":null,"THU_M3":null,"THU_M4":null,"THU_W1":"Riot v Rival","THU_W2":"","THU_W3":"Riot v Pop","THU_W4":"Rival v Pop","THU_X1":"","THU_X2":"BFG v Cocktails","THU_X3":null,"THU_X4":null},"geometry":{"type":"Polygon","coordinates":[[[-117.226259097099,32.980260654901],[-117.225905045509,32.980260654901],[-117.225905045509,32.981039149896],[-117.226259097099,32.981039149896],[-117.226259097099,32.980260654901]]]}},{"type":"Feature","properties":{"id":8,"FIELD_NUM":"F9","THU_M1":null,"THU_M2":null,"THU_M3":null,"THU_M4":null,"THU_W1":"Ozone v Pop","THU_W2":"","THU_W3":"Ozone v Rival","THU_W4":"","THU_X1":null,"THU_X2":"shame. v XIST","THU_X3":null,"THU_X4":"Polar Bears v XIST"},"geometry":{"type":"Polygon","coordinates":[[[-117.225759097099,32.980260654901],[-117.225405045509,32.980260654901],[-117.225405045509,32.981039149896],[-117.225759097099,32.981039149896],[-117.225759097099,32.980260654901]]]}},{"type":"Feature","properties":{"id":9,"FIELD_NUM":"F10","THU_M1":null,"THU_M2":null,"THU_M3":null,"THU_M4":null,"THU_W1":null,"THU_W2":null,"THU_W3":null,"THU_W4":null,"THU_X1":"Space Heater v Jughandle","THU_X2":"Drag'n Thrust v Polar Bears","THU_X3":"Drag'n Thrust v XIST","THU_X4":"Drag'n Thrust v shame."},"geometry":{"type":"Polygon","coordinates":[[[-117.225259097099,32.980260654901],[-117.224905045509,32.980260654901],[-117.224905045509,32.981039149896],[-117.225259097099,32.981039149896],[-117.225259097099,32.980260654901]]]}},{"type":"Feature","properties":{"id":10,"FIELD_NUM":"F11","THU_M1":null,"THU_M2":null,"THU_M3":null,"THU_M4":null,"THU_W1":null,"THU_W2":null,"THU_W3":null,"THU_W4":null,"THU_X1":"Snake Country v Cocktails","THU_X2":"Snake Country v Slow White","THU_X3":"Mixtape v Jughandle","THU_X4":"Slow White v Cocktails"},"geometry":{"type":"Polygon","coordinates":[[[-117.224759097099,32.980260654901],[-117.224405045509,32.980260654901],[-117.224405045509,32.981039149896],[-117.224759097099,32.981039149896],[-117.224759097099,32.980260654901]]]}},{"type":"Feature","properties":{"id":11,"FIELD_NUM":"F12","THU_M1":null,"THU_M2":null,"THU_M3":null,"THU_M4":null,"THU_W1":null,"THU_W2":null,"THU_W3":null,"THU_W4":null,"THU_X1":"Amp v No Touching!","THU_X2":"Amp v Toro","THU_X3":"Space Heater v Mischief","THU_X4":"Mischief v Jug Handle"},"geometry":{"type":"Polygon","coordinates":[[[-117.224259097099,32.980260654901],[-117.223905045509,32.980260654901],[-117.223905045509,32.981039149896],[-117.224259097099,32.981039149896],[-117.224259097099,32.980260654901]]]}},{"type":"Feature","properties":{"id":11,"FIELD_NUM":"F12","THU_M1":null,"THU_M2":null,"THU_M3":null,"THU_M4":null,"THU_W1":null,"THU_W2":null,"THU_W3":null,"THU_W4":null,"THU_X1":"Blackbird v Toro","THU_X2":"Blackbird v No Touching!","THU_X3":"No Touching v Toro","THU_X4":"BFG v Snake Country"},"geometry":{"type":"Polygon","coordinates":[[[-117.223759097099,32.980260654901],[-117.223405045509,32.980260654901],[-117.223405045509,32.981039149896],[-117.223759097099,32.981039149896],[-117.223759097099,32.980260654901]]]}},{"type":"Feature","properties":{"id":12,"FIELD_NUM":"F13","THU_M1":null,"THU_M2":null,"THU_M3":null,"THU_M4":null,"THU_W1":null,"THU_W2":null,"THU_W3":null,"THU_W4":null,"THU_X1":null,"THU_X2":null,"THU_X3":null,"THU_X4":null},"geometry":{"type":"Polygon","coordinates":[[[-117.223259097099,32.980260654901],[-117.222905045509,32.980260654901],[-117.222905045509,32.981039149896],[-117.223259097099,32.981039149896],[-117.223259097099,32.980260654901]]]}},{"type":"Feature","properties":{"id":13,"FIELD_NUM":"F14","THU_M1":null,"THU_M2":null,"THU_M3":null,"THU_M4":null,"THU_W1":null,"THU_W2":null,"THU_W3":null,"THU_W4":null,"THU_X1":null,"THU_X2":null,"THU_X3":null,"THU_X4":null},"geometry":{"type":"Polygon","coordinates":[[[-117.2297590970993,32.9793301509693],[-117.22940504550934,32.9793301509693],[-117.22940504550934,32.9800906550337],[-117.2297590970993,32.9800906550337],[-117.2297590970993,32.9793301509693]]]}},{"type":"Feature","properties":{"id":14,"FIELD_NUM":"F15","THU_M1":"Revolver v Sub Zero","THU_M2":"Revolver v High Five","THU_M3":"Revolver v Madison","THU_M4":"Ring v Furious","THU_W1":null,"THU_W2":null,"THU_W3":null,"THU_W4":null,"THU_X1":null,"THU_X2":null,"THU_X3":null,"THU_X4":null},"geometry":{"type":"Polygon","coordinates":[[[-117.229259097099,32.9793301509693],[-117.228905045509,32.9793301509693],[-117.228905045509,32.9800906550337],[-117.229259097099,32.9800906550337],[-117.229259097099,32.9793301509693]]]}},{"type":"Feature","properties":{"id":15,"FIELD_NUM":"F16","THU_M1":"Furious v Chain","THU_M2":"Furious v Machine","THU_M3":"Dig v Doublewide","THU_M4":"Doublewide v Temper","THU_W1":null,"THU_W2":null,"THU_W3":null,"THU_W4":null,"THU_X1":null,"THU_X2":null,"THU_X3":null,"THU_X4":null},"geometry":{"type":"Polygon","coordinates":[[[-117.228759097099,32.9793301509693],[-117.228405045509,32.9793301509693],[-117.228405045509,32.9800906550337],[-117.228759097099,32.9800906550337],[-117.228759097099,32.9793301509693]]]}},{"type":"Feature","properties":{"id":16,"FIELD_NUM":"F17","THU_M1":"Pony v Rhino","THU_M2":"Ring v Chain","THU_M3":"Truck Stop v Rhino","THU_M4":"Rhino v Bravo","THU_W1":null,"THU_W2":null,"THU_W3":null,"THU_W4":null,"THU_X1":null,"THU_X2":null,"THU_X3":null,"THU_X4":null},"geometry":{"type":"Polygon","coordinates":[[[-117.228259097099,32.9793301509693],[-117.227905045509,32.9793301509693],[-117.227905045509,32.9800906550337],[-117.228259097099,32.9800906550337],[-117.228259097099,32.9793301509693]]]}},{"type":"Feature","properties":{"id":17,"FIELD_NUM":"F18","THU_M1":null,"THU_M2":null,"THU_M3":"Pony v Bravo","THU_M4":null,"THU_W1":"Molly Brown v Nemesis","THU_W2":"Molly Brown v Wildfire","THU_W3":"","THU_W4":"Namesis v Wildfire","THU_X1":"","THU_X2":null,"THU_X3":null,"THU_X4":null},"geometry":{"type":"Polygon","coordinates":[[[-117.227759097099,32.9793301509693],[-117.227405045509,32.9793301509693],[-117.227405045509,32.9800906550337],[-117.227759097099,32.9800906550337],[-117.227759097099,32.9793301509693]]]}},{"type":"Feature","properties":{"id":18,"FIELD_NUM":"F19","THU_M1":"Ring v Machine","THU_M2":null,"THU_M3":null,"THU_M4":null,"THU_W1":null,"THU_W2":"6ixers v Traffic","THU_W3":"Brute Squad v Nightlock","THU_W4":"Molly Brown v Scandal","THU_X1":"","THU_X2":null,"THU_X3":null,"THU_X4":null},"geometry":{"type":"Polygon","coordinates":[[[-117.227259097099,32.9793301509693],[-117.226905045509,32.9793301509693],[-117.226905045509,32.9800906550337],[-117.227259097099,32.9800906550337],[-117.227259097099,32.9793301509693]]]}},{"type":"Feature","properties":{"id":19,"FIELD_NUM":"F20","THU_M1":null,"THU_M2":"Dig v Temper","THU_M3":null,"THU_M4":null,"THU_W1":null,"THU_W2":null,"THU_W3":null,"THU_W4":null,"THU_X1":"BFG v Slow White","THU_X2":null,"THU_X3":"shame. v Polar Bears","THU_X4":"Mixtape v Space Heater"},"geometry":{"type":"Polygon","coordinates":[[[-117.226759097099,32.9793301509693],[-117.226405045509,32.9793301509693],[-117.226405045509,32.9800906550337],[-117.226759097099,32.9800906550337],[-117.226759097099,32.9793301509693]]]}},{"type":"Feature","properties":{"id":0,"FIELD_NUM":"F1","THU_M1":"","THU_M2":null,"THU_M3":null,"THU_M4":null,"THU_W1":null,"THU_W2":null,"THU_W3":null,"THU_W4":null,"THU_X1":null,"THU_X2":null,"THU_X3":null,"THU_X4":null},"geometry":{"type":"Polygon","coordinates":[[[-117.229559097099,32.980260654901],[-117.22940504550934,32.980260654901],[-117.22940504550934,32.981039149896],[-117.2297590970993,32.981039149896],[-117.229759097099,32.980260654901]]]}},{"type":"Feature","properties":{"id":1,"FIELD_NUM":"F2","THU_M1":"Truck Stop v Bravo","THU_M2":"Madison v Sub Zero","THU_M3":"Sub Zero v High Five","THU_M4":"Machine v Chain","THU_W1":null,"THU_W2":null,"THU_W3":null,"THU_W4":null,"THU_X1":null,"THU_X2":null,"THU_X3":null,"THU_X4":null},"geometry":{"type":"Polygon","coordinates":[[[-117.229259097099,32.980260654901],[-117.228905045509,32.980260654901],[-117.228905045509,32.981039149896],[-117.229259097099,32.981039149896],[-117.229259097099,32.980260654901]]]}},{"type":"Feature","properties":{"id":2,"FIELD_NUM":"F3","THU_M1":null,"THU_M2":null,"THU_M3":"Sockeye v Temper","THU_M4":"Sockeye v Dig","THU_W1":"Brute Squad v Heist","THU_W2":"Brute Squad v Schwa","THU_W3":"","THU_W4":null,"THU_X1":null,"THU_X2":null,"THU_X3":null,"THU_X4":null},"geometry":{"type":"Polygon","coordinates":[[[-117.228759097099,32.980260654901],[-117.228405045509,32.980260654901],[-117.228405045509,32.981039149896],[-117.228759097099,32.981039149896],[-117.228759097099,32.980260654901]]]}},{"type":"Feature","properties":{"id":3,"FIELD_NUM":"F4","THU_M1":null,"THU_M2":null,"THU_M3":null,"THU_M4":null,"THU_W1":"Nightlock v Schwa","THU_W2":"Nightlock v Heist","THU_W3":"Heist v Schwa","THU_W4":"Phoenix v Traffic","THU_X1":"","THU_X2":null,"THU_X3":null,"THU_X4":null},"geometry":{"type":"Polygon","coordinates":[[[-117.228259097099,32.980260654901],[-117.227905045509,32.980260654901],[-117.227905045509,32.981039149896],[-117.228259097099,32.981039149896],[-117.228259097099,32.980260654901]]]}},{"type":"Feature","properties":{"id":4,"FIELD_NUM":"F5","THU_M1":null,"THU_M2":null,"THU_M3":null,"THU_M4":null,"THU_W1":"Scandal v Wildfire","THU_W2":"Fury v Phoenix","THU_W3":"Fury v Traffic","THU_W4":"Fury v 6ixers","THU_X1":"","THU_X2":null,"THU_X3":null,"THU_X4":null},"geometry":{"type":"Polygon","coordinates":[[[-117.227759097099,32.980260654901],[-117.227405045509,32.980260654901],[-117.227405045509,32.981039149896],[-117.227759097099,32.981039149896],[-117.227759097099,32.980260654901]]]}},{"type":"Feature","properties":{"id":5,"FIELD_NUM":"F6","THU_M1":null,"THU_M2":"Sockeye v Doublewide","THU_M3":null,"THU_M4":"Pony v Truck Stop","THU_W1":null,"THU_W2":null,"THU_W3":"6ixers v Phoenix","THU_W4":"","THU_X1":"Mixtape v Mishief","THU_X2":null,"THU_X3":null,"THU_X4":null},"geometry":{"type":"Polygon","coordinates":[[[-117.227259097099,32.980260654901],[-117.226905045509,32.980260654901],[-117.226905045509,32.981039149896],[-117.227259097099,32.981039149896],[-117.227259097099,32.980260654901]]]}},{"type":"Feature","properties":{"id":6,"FIELD_NUM":"F7","THU_M1":"Madison v High Five","THU_M2":null,"THU_M3":null,"THU_M4":null,"THU_W1":null,"THU_W2":"Scandal v Nemesis","THU_W3":"","THU_W4":"Riot v Ozone","THU_X1":"","THU_X2":null,"THU_X3":"Amp v Blackbird","THU_X4":null},"geometry":{"type":"Polygon","coordinates":[[[-117.226759097099,32.980260654901],[-117.226405045509,32.980260654901],[-117.226405045509,32.981039149896],[-117.226759097099,32.981039149896],[-117.226759097099,32.980260654901]]]}},{"type":"Feature","properties":{"id":7,"FIELD_NUM":"F8","THU_M1":null,"THU_M2":null,"THU_M3":null,"THU_M4":null,"THU_W1":"Riot v Rival","THU_W2":"","THU_W3":"Riot v Pop","THU_W4":"Rival v Pop","THU_X1":"","THU_X2":"BFG v Cocktails","THU_X3":null,"THU_X4":null},"geometry":{"type":"Polygon","coordinates":[[[-117.226259097099,32.980260654901],[-117.225905045509,32.980260654901],[-117.225905045509,32.981039149896],[-117.226259097099,32.981039149896],[-117.226259097099,32.980260654901]]]}},{"type":"Feature","properties":{"id":8,"FIELD_NUM":"F9","THU_M1":null,"THU_M2":null,"THU_M3":null,"THU_M4":null,"THU_W1":"Ozone v Pop","THU_W2":"","THU_W3":"Ozone v Rival","THU_W4":"","THU_X1":null,"THU_X2":"shame. v XIST","THU_X3":null,"THU_X4":"Polar Bears v XIST"},"geometry":{"type":"Polygon","coordinates":[[[-117.225759097099,32.980260654901],[-117.225405045509,32.980260654901],[-117.225405045509,32.981039149896],[-117.225759097099,32.981039149896],[-117.225759097099,32.980260654901]]]}},{"type":"Feature","properties":{"id":9,"FIELD_NUM":"F10","THU_M1":null,"THU_M2":null,"THU_M3":null,"THU_M4":null,"THU_W1":null,"THU_W2":null,"THU_W3":null,"THU_W4":null,"THU_X1":"Space Heater v Jughandle","THU_X2":"Drag'n Thrust v Polar Bears","THU_X3":"Drag'n Thrust v XIST","THU_X4":"Drag'n Thrust v shame."},"geometry":{"type":"Polygon","coordinates":[[[-117.225259097099,32.980260654901],[-117.224905045509,32.980260654901],[-117.224905045509,32.981039149896],[-117.225259097099,32.981039149896],[-117.225259097099,32.980260654901]]]}},{"type":"Feature","properties":{"id":10,"FIELD_NUM":"F11","THU_M1":null,"THU_M2":null,"THU_M3":null,"THU_M4":null,"THU_W1":null,"THU_W2":null,"THU_W3":null,"THU_W4":null,"THU_X1":"Snake Country v Cocktails","THU_X2":"Snake Country v Slow White","THU_X3":"Mixtape v Jughandle","THU_X4":"Slow White v Cocktails"},"geometry":{"type":"Polygon","coordinates":[[[-117.224759097099,32.980260654901],[-117.224405045509,32.980260654901],[-117.224405045509,32.981039149896],[-117.224759097099,32.981039149896],[-117.224759097099,32.980260654901]]]}},{"type":"Feature","properties":{"id":11,"FIELD_NUM":"F12","THU_M1":null,"THU_M2":null,"THU_M3":null,"THU_M4":null,"THU_W1":null,"THU_W2":null,"THU_W3":null,"THU_W4":null,"THU_X1":"Amp v No Touching!","THU_X2":"Amp v Toro","THU_X3":"Space Heater v Mischief","THU_X4":"Mischief v Jug Handle"},"geometry":{"type":"Polygon","coordinates":[[[-117.224259097099,32.980260654901],[-117.223905045509,32.980260654901],[-117.223905045509,32.981039149896],[-117.224259097099,32.981039149896],[-117.224259097099,32.980260654901]]]}},{"type":"Feature","properties":{"id":11,"FIELD_NUM":"F12","THU_M1":null,"THU_M2":null,"THU_M3":null,"THU_M4":null,"THU_W1":null,"THU_W2":null,"THU_W3":null,"THU_W4":null,"THU_X1":"Blackbird v Toro","THU_X2":"Blackbird v No Touching!","THU_X3":"No Touching v Toro","THU_X4":"BFG v Snake Country"},"geometry":{"type":"Polygon","coordinates":[[[-117.223759097099,32.980260654901],[-117.223405045509,32.980260654901],[-117.223405045509,32.981039149896],[-117.223759097099,32.981039149896],[-117.223759097099,32.980260654901]]]}},{"type":"Feature","properties":{"id":12,"FIELD_NUM":"F13","THU_M1":null,"THU_M2":null,"THU_M3":null,"THU_M4":null,"THU_W1":null,"THU_W2":null,"THU_W3":null,"THU_W4":null,"THU_X1":null,"THU_X2":null,"THU_X3":null,"THU_X4":null},"geometry":{"type":"Polygon","coordinates":[[[-117.223259097099,32.980260654901],[-117.222905045509,32.980260654901],[-117.222905045509,32.981039149896],[-117.223259097099,32.981039149896],[-117.223259097099,32.980260654901]]]}},{"type":"Feature","properties":{"id":13,"FIELD_NUM":"F14","THU_M1":null,"THU_M2":null,"THU_M3":null,"THU_M4":null,"THU_W1":null,"THU_W2":null,"THU_W3":null,"THU_W4":null,"THU_X1":null,"THU_X2":null,"THU_X3":null,"THU_X4":null},"geometry":{"type":"Polygon","coordinates":[[[-117.2297590970993,32.9793301509693],[-117.22940504550934,32.9793301509693],[-117.22940504550934,32.9800906550337],[-117.2297590970993,32.9800906550337],[-117.2297590970993,32.9793301509693]]]}},{"type":"Feature","properties":{"id":14,"FIELD_NUM":"F15","THU_M1":"Revolver v Sub Zero","THU_M2":"Revolver v High Five","THU_M3":"Revolver v Madison","THU_M4":"Ring v Furious","THU_W1":null,"THU_W2":null,"THU_W3":null,"THU_W4":null,"THU_X1":null,"THU_X2":null,"THU_X3":null,"THU_X4":null},"geometry":{"type":"Polygon","coordinates":[[[-117.229259097099,32.9793301509693],[-117.228905045509,32.9793301509693],[-117.228905045509,32.9800906550337],[-117.229259097099,32.9800906550337],[-117.229259097099,32.9793301509693]]]}},{"type":"Feature","properties":{"id":15,"FIELD_NUM":"F16","THU_M1":"Furious v Chain","THU_M2":"Furious v Machine","THU_M3":"Dig v Doublewide","THU_M4":"Doublewide v Temper","THU_W1":null,"THU_W2":null,"THU_W3":null,"THU_W4":null,"THU_X1":null,"THU_X2":null,"THU_X3":null,"THU_X4":null},"geometry":{"type":"Polygon","coordinates":[[[-117.228759097099,32.9793301509693],[-117.228405045509,32.9793301509693],[-117.228405045509,32.9800906550337],[-117.228759097099,32.9800906550337],[-117.228759097099,32.9793301509693]]]}},{"type":"Feature","properties":{"id":16,"FIELD_NUM":"F17","THU_M1":"Pony v Rhino","THU_M2":"Ring v Chain","THU_M3":"Truck Stop v Rhino","THU_M4":"Rhino v Bravo","THU_W1":null,"THU_W2":null,"THU_W3":null,"THU_W4":null,"THU_X1":null,"THU_X2":null,"THU_X3":null,"THU_X4":null},"geometry":{"type":"Polygon","coordinates":[[[-117.228259097099,32.9793301509693],[-117.227905045509,32.9793301509693],[-117.227905045509,32.9800906550337],[-117.228259097099,32.9800906550337],[-117.228259097099,32.9793301509693]]]}},{"type":"Feature","properties":{"id":17,"FIELD_NUM":"F18","THU_M1":null,"THU_M2":null,"THU_M3":"Pony v Bravo","THU_M4":null,"THU_W1":"Molly Brown v Nemesis","THU_W2":"Molly Brown v Wildfire","THU_W3":"","THU_W4":"Namesis v Wildfire","THU_X1":"","THU_X2":null,"THU_X3":null,"THU_X4":null},"geometry":{"type":"Polygon","coordinates":[[[-117.227759097099,32.9793301509693],[-117.227405045509,32.9793301509693],[-117.227405045509,32.9800906550337],[-117.227759097099,32.9800906550337],[-117.227759097099,32.9793301509693]]]}},{"type":"Feature","properties":{"id":18,"FIELD_NUM":"F19","THU_M1":"Ring v Machine","THU_M2":null,"THU_M3":null,"THU_M4":null,"THU_W1":null,"THU_W2":"6ixers v Traffic","THU_W3":"Brute Squad v Nightlock","THU_W4":"Molly Brown v Scandal","THU_X1":"","THU_X2":null,"THU_X3":null,"THU_X4":null},"geometry":{"type":"Polygon","coordinates":[[[-117.227259097099,32.9793301509693],[-117.226905045509,32.9793301509693],[-117.226905045509,32.9800906550337],[-117.227259097099,32.9800906550337],[-117.227259097099,32.9793301509693]]]}},{"type":"Feature","properties":{"id":19,"FIELD_NUM":"F20","THU_M1":null,"THU_M2":"Dig v Temper","THU_M3":null,"THU_M4":null,"THU_W1":null,"THU_W2":null,"THU_W3":null,"THU_W4":null,"THU_X1":"BFG v Slow White","THU_X2":null,"THU_X3":"shame. v Polar Bears","THU_X4":"Mixtape v Space Heater"},"geometry":{"type":"Polygon","coordinates":[[[-117.226759097099,32.9793301509693],[-117.226405045509,32.9793301509693],[-117.226405045509,32.9800906550337],[-117.226759097099,32.9800906550337],[-117.226759097099,32.9793301509693]]]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 0,
+        "FIELD_NUM": "F1",
+        "THU_M1": "",
+        "THU_M2": null,
+        "THU_M3": null,
+        "THU_M4": null,
+        "THU_W1": null,
+        "THU_W2": null,
+        "THU_W3": null,
+        "THU_W4": null,
+        "THU_X1": null,
+        "THU_X2": null,
+        "THU_X3": null,
+        "THU_X4": null,
+        "FRI_M1": "Test"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -117.229559097099,
+              32.980260654901
+            ],
+            [
+              -117.22940504550934,
+              32.980260654901
+            ],
+            [
+              -117.22940504550934,
+              32.981039149896
+            ],
+            [
+              -117.2297590970993,
+              32.981039149896
+            ],
+            [
+              -117.229759097099,
+              32.980260654901
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 1,
+        "FIELD_NUM": "F2",
+        "THU_M1": "Truck Stop v Bravo",
+        "THU_M2": "Madison v Sub Zero",
+        "THU_M3": "Sub Zero v High Five",
+        "THU_M4": "Machine v Chain",
+        "THU_W1": null,
+        "THU_W2": null,
+        "THU_W3": null,
+        "THU_W4": null,
+        "THU_X1": null,
+        "THU_X2": null,
+        "THU_X3": null,
+        "THU_X4": null,
+        "FRI_M1": ""
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -117.229259097099,
+              32.980260654901
+            ],
+            [
+              -117.228905045509,
+              32.980260654901
+            ],
+            [
+              -117.228905045509,
+              32.981039149896
+            ],
+            [
+              -117.229259097099,
+              32.981039149896
+            ],
+            [
+              -117.229259097099,
+              32.980260654901
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 2,
+        "FIELD_NUM": "F3",
+        "THU_M1": null,
+        "THU_M2": null,
+        "THU_M3": "Sockeye v Temper",
+        "THU_M4": "Sockeye v Dig",
+        "THU_W1": "Brute Squad v Heist",
+        "THU_W2": "Brute Squad v Schwa",
+        "THU_W3": "",
+        "THU_W4": null,
+        "THU_X1": null,
+        "THU_X2": null,
+        "THU_X3": null,
+        "THU_X4": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -117.228759097099,
+              32.980260654901
+            ],
+            [
+              -117.228405045509,
+              32.980260654901
+            ],
+            [
+              -117.228405045509,
+              32.981039149896
+            ],
+            [
+              -117.228759097099,
+              32.981039149896
+            ],
+            [
+              -117.228759097099,
+              32.980260654901
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 3,
+        "FIELD_NUM": "F4",
+        "THU_M1": null,
+        "THU_M2": null,
+        "THU_M3": null,
+        "THU_M4": null,
+        "THU_W1": "Nightlock v Schwa",
+        "THU_W2": "Nightlock v Heist",
+        "THU_W3": "Heist v Schwa",
+        "THU_W4": "Phoenix v Traffic",
+        "THU_X1": "",
+        "THU_X2": null,
+        "THU_X3": null,
+        "THU_X4": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -117.228259097099,
+              32.980260654901
+            ],
+            [
+              -117.227905045509,
+              32.980260654901
+            ],
+            [
+              -117.227905045509,
+              32.981039149896
+            ],
+            [
+              -117.228259097099,
+              32.981039149896
+            ],
+            [
+              -117.228259097099,
+              32.980260654901
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 4,
+        "FIELD_NUM": "F5",
+        "THU_M1": null,
+        "THU_M2": null,
+        "THU_M3": null,
+        "THU_M4": null,
+        "THU_W1": "Scandal v Wildfire",
+        "THU_W2": "Fury v Phoenix",
+        "THU_W3": "Fury v Traffic",
+        "THU_W4": "Fury v 6ixers",
+        "THU_X1": "",
+        "THU_X2": null,
+        "THU_X3": null,
+        "THU_X4": null,
+        "FRI_M1": "Test2"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -117.227759097099,
+              32.980260654901
+            ],
+            [
+              -117.227405045509,
+              32.980260654901
+            ],
+            [
+              -117.227405045509,
+              32.981039149896
+            ],
+            [
+              -117.227759097099,
+              32.981039149896
+            ],
+            [
+              -117.227759097099,
+              32.980260654901
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 5,
+        "FIELD_NUM": "F6",
+        "THU_M1": null,
+        "THU_M2": "Sockeye v Doublewide",
+        "THU_M3": null,
+        "THU_M4": "Pony v Truck Stop",
+        "THU_W1": null,
+        "THU_W2": null,
+        "THU_W3": "6ixers v Phoenix",
+        "THU_W4": "",
+        "THU_X1": "Mixtape v Mishief",
+        "THU_X2": null,
+        "THU_X3": null,
+        "THU_X4": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -117.227259097099,
+              32.980260654901
+            ],
+            [
+              -117.226905045509,
+              32.980260654901
+            ],
+            [
+              -117.226905045509,
+              32.981039149896
+            ],
+            [
+              -117.227259097099,
+              32.981039149896
+            ],
+            [
+              -117.227259097099,
+              32.980260654901
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 6,
+        "FIELD_NUM": "F7",
+        "THU_M1": "Madison v High Five",
+        "THU_M2": null,
+        "THU_M3": null,
+        "THU_M4": null,
+        "THU_W1": null,
+        "THU_W2": "Scandal v Nemesis",
+        "THU_W3": "",
+        "THU_W4": "Riot v Ozone",
+        "THU_X1": "",
+        "THU_X2": null,
+        "THU_X3": "Amp v Blackbird",
+        "THU_X4": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -117.226759097099,
+              32.980260654901
+            ],
+            [
+              -117.226405045509,
+              32.980260654901
+            ],
+            [
+              -117.226405045509,
+              32.981039149896
+            ],
+            [
+              -117.226759097099,
+              32.981039149896
+            ],
+            [
+              -117.226759097099,
+              32.980260654901
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 7,
+        "FIELD_NUM": "F8",
+        "THU_M1": null,
+        "THU_M2": null,
+        "THU_M3": null,
+        "THU_M4": null,
+        "THU_W1": "Riot v Rival",
+        "THU_W2": "",
+        "THU_W3": "Riot v Pop",
+        "THU_W4": "Rival v Pop",
+        "THU_X1": "",
+        "THU_X2": "BFG v Cocktails",
+        "THU_X3": null,
+        "THU_X4": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -117.226259097099,
+              32.980260654901
+            ],
+            [
+              -117.225905045509,
+              32.980260654901
+            ],
+            [
+              -117.225905045509,
+              32.981039149896
+            ],
+            [
+              -117.226259097099,
+              32.981039149896
+            ],
+            [
+              -117.226259097099,
+              32.980260654901
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 8,
+        "FIELD_NUM": "F9",
+        "THU_M1": null,
+        "THU_M2": null,
+        "THU_M3": null,
+        "THU_M4": null,
+        "THU_W1": "Ozone v Pop",
+        "THU_W2": "",
+        "THU_W3": "Ozone v Rival",
+        "THU_W4": "",
+        "THU_X1": null,
+        "THU_X2": "shame. v XIST",
+        "THU_X3": null,
+        "THU_X4": "Polar Bears v XIST"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -117.225759097099,
+              32.980260654901
+            ],
+            [
+              -117.225405045509,
+              32.980260654901
+            ],
+            [
+              -117.225405045509,
+              32.981039149896
+            ],
+            [
+              -117.225759097099,
+              32.981039149896
+            ],
+            [
+              -117.225759097099,
+              32.980260654901
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 9,
+        "FIELD_NUM": "F10",
+        "THU_M1": null,
+        "THU_M2": null,
+        "THU_M3": null,
+        "THU_M4": null,
+        "THU_W1": null,
+        "THU_W2": null,
+        "THU_W3": null,
+        "THU_W4": null,
+        "THU_X1": "Space Heater v Jughandle",
+        "THU_X2": "Drag'n Thrust v Polar Bears",
+        "THU_X3": "Drag'n Thrust v XIST",
+        "THU_X4": "Drag'n Thrust v shame."
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -117.225259097099,
+              32.980260654901
+            ],
+            [
+              -117.224905045509,
+              32.980260654901
+            ],
+            [
+              -117.224905045509,
+              32.981039149896
+            ],
+            [
+              -117.225259097099,
+              32.981039149896
+            ],
+            [
+              -117.225259097099,
+              32.980260654901
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 10,
+        "FIELD_NUM": "F11",
+        "THU_M1": null,
+        "THU_M2": null,
+        "THU_M3": null,
+        "THU_M4": null,
+        "THU_W1": null,
+        "THU_W2": null,
+        "THU_W3": null,
+        "THU_W4": null,
+        "THU_X1": "Snake Country v Cocktails",
+        "THU_X2": "Snake Country v Slow White",
+        "THU_X3": "Mixtape v Jughandle",
+        "THU_X4": "Slow White v Cocktails"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -117.224759097099,
+              32.980260654901
+            ],
+            [
+              -117.224405045509,
+              32.980260654901
+            ],
+            [
+              -117.224405045509,
+              32.981039149896
+            ],
+            [
+              -117.224759097099,
+              32.981039149896
+            ],
+            [
+              -117.224759097099,
+              32.980260654901
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 11,
+        "FIELD_NUM": "F12",
+        "THU_M1": null,
+        "THU_M2": null,
+        "THU_M3": null,
+        "THU_M4": null,
+        "THU_W1": null,
+        "THU_W2": null,
+        "THU_W3": null,
+        "THU_W4": null,
+        "THU_X1": "Amp v No Touching!",
+        "THU_X2": "Amp v Toro",
+        "THU_X3": "Space Heater v Mischief",
+        "THU_X4": "Mischief v Jug Handle"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -117.224259097099,
+              32.980260654901
+            ],
+            [
+              -117.223905045509,
+              32.980260654901
+            ],
+            [
+              -117.223905045509,
+              32.981039149896
+            ],
+            [
+              -117.224259097099,
+              32.981039149896
+            ],
+            [
+              -117.224259097099,
+              32.980260654901
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 12,
+        "FIELD_NUM": "F13",
+        "THU_M1": null,
+        "THU_M2": null,
+        "THU_M3": null,
+        "THU_M4": null,
+        "THU_W1": null,
+        "THU_W2": null,
+        "THU_W3": null,
+        "THU_W4": null,
+        "THU_X1": "Blackbird v Toro",
+        "THU_X2": "Blackbird v No Touching!",
+        "THU_X3": "No Touching v Toro",
+        "THU_X4": "BFG v Snake Country"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -117.223759097099,
+              32.980260654901
+            ],
+            [
+              -117.223405045509,
+              32.980260654901
+            ],
+            [
+              -117.223405045509,
+              32.981039149896
+            ],
+            [
+              -117.223759097099,
+              32.981039149896
+            ],
+            [
+              -117.223759097099,
+              32.980260654901
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 13,
+        "FIELD_NUM": "F14",
+        "THU_M1": null,
+        "THU_M2": null,
+        "THU_M3": null,
+        "THU_M4": null,
+        "THU_W1": null,
+        "THU_W2": null,
+        "THU_W3": null,
+        "THU_W4": null,
+        "THU_X1": null,
+        "THU_X2": null,
+        "THU_X3": null,
+        "THU_X4": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -117.2297590970993,
+              32.9793301509693
+            ],
+            [
+              -117.22940504550934,
+              32.9793301509693
+            ],
+            [
+              -117.22940504550934,
+              32.9800906550337
+            ],
+            [
+              -117.2297590970993,
+              32.9800906550337
+            ],
+            [
+              -117.2297590970993,
+              32.9793301509693
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 14,
+        "FIELD_NUM": "F15",
+        "THU_M1": "Revolver v Sub Zero",
+        "THU_M2": "Revolver v High Five",
+        "THU_M3": "Revolver v Madison",
+        "THU_M4": "Ring v Furious",
+        "THU_W1": null,
+        "THU_W2": null,
+        "THU_W3": null,
+        "THU_W4": null,
+        "THU_X1": null,
+        "THU_X2": null,
+        "THU_X3": null,
+        "THU_X4": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -117.229259097099,
+              32.9793301509693
+            ],
+            [
+              -117.228905045509,
+              32.9793301509693
+            ],
+            [
+              -117.228905045509,
+              32.9800906550337
+            ],
+            [
+              -117.229259097099,
+              32.9800906550337
+            ],
+            [
+              -117.229259097099,
+              32.9793301509693
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 15,
+        "FIELD_NUM": "F16",
+        "THU_M1": "Furious v Chain",
+        "THU_M2": "Furious v Machine",
+        "THU_M3": "Dig v Doublewide",
+        "THU_M4": "Doublewide v Temper",
+        "THU_W1": null,
+        "THU_W2": null,
+        "THU_W3": null,
+        "THU_W4": null,
+        "THU_X1": null,
+        "THU_X2": null,
+        "THU_X3": null,
+        "THU_X4": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -117.228759097099,
+              32.9793301509693
+            ],
+            [
+              -117.228405045509,
+              32.9793301509693
+            ],
+            [
+              -117.228405045509,
+              32.9800906550337
+            ],
+            [
+              -117.228759097099,
+              32.9800906550337
+            ],
+            [
+              -117.228759097099,
+              32.9793301509693
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 16,
+        "FIELD_NUM": "F17",
+        "THU_M1": "Pony v Rhino",
+        "THU_M2": "Ring v Chain",
+        "THU_M3": "Truck Stop v Rhino",
+        "THU_M4": "Rhino v Bravo",
+        "THU_W1": null,
+        "THU_W2": null,
+        "THU_W3": null,
+        "THU_W4": null,
+        "THU_X1": null,
+        "THU_X2": null,
+        "THU_X3": null,
+        "THU_X4": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -117.228259097099,
+              32.9793301509693
+            ],
+            [
+              -117.227905045509,
+              32.9793301509693
+            ],
+            [
+              -117.227905045509,
+              32.9800906550337
+            ],
+            [
+              -117.228259097099,
+              32.9800906550337
+            ],
+            [
+              -117.228259097099,
+              32.9793301509693
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 17,
+        "FIELD_NUM": "F18",
+        "THU_M1": null,
+        "THU_M2": null,
+        "THU_M3": "Pony v Bravo",
+        "THU_M4": null,
+        "THU_W1": "Molly Brown v Nemesis",
+        "THU_W2": "Molly Brown v Wildfire",
+        "THU_W3": "",
+        "THU_W4": "Namesis v Wildfire",
+        "THU_X1": "",
+        "THU_X2": null,
+        "THU_X3": null,
+        "THU_X4": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -117.227759097099,
+              32.9793301509693
+            ],
+            [
+              -117.227405045509,
+              32.9793301509693
+            ],
+            [
+              -117.227405045509,
+              32.9800906550337
+            ],
+            [
+              -117.227759097099,
+              32.9800906550337
+            ],
+            [
+              -117.227759097099,
+              32.9793301509693
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 18,
+        "FIELD_NUM": "F19",
+        "THU_M1": "Ring v Machine",
+        "THU_M2": null,
+        "THU_M3": null,
+        "THU_M4": null,
+        "THU_W1": null,
+        "THU_W2": "6ixers v Traffic",
+        "THU_W3": "Brute Squad v Nightlock",
+        "THU_W4": "Molly Brown v Scandal",
+        "THU_X1": "",
+        "THU_X2": null,
+        "THU_X3": null,
+        "THU_X4": null
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -117.227259097099,
+              32.9793301509693
+            ],
+            [
+              -117.226905045509,
+              32.9793301509693
+            ],
+            [
+              -117.226905045509,
+              32.9800906550337
+            ],
+            [
+              -117.227259097099,
+              32.9800906550337
+            ],
+            [
+              -117.227259097099,
+              32.9793301509693
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "id": 19,
+        "FIELD_NUM": "F20",
+        "THU_M1": null,
+        "THU_M2": "Dig v Temper",
+        "THU_M3": null,
+        "THU_M4": null,
+        "THU_W1": null,
+        "THU_W2": null,
+        "THU_W3": null,
+        "THU_W4": null,
+        "THU_X1": "BFG v Slow White",
+        "THU_X2": null,
+        "THU_X3": "shame. v Polar Bears",
+        "THU_X4": "Mixtape v Space Heater"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -117.226759097099,
+              32.9793301509693
+            ],
+            [
+              -117.226405045509,
+              32.9793301509693
+            ],
+            [
+              -117.226405045509,
+              32.9800906550337
+            ],
+            [
+              -117.226759097099,
+              32.9800906550337
+            ],
+            [
+              -117.226759097099,
+              32.9793301509693
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
